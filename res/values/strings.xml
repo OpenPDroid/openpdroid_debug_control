@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDroid Debug Controller</string>
+	<string name="permission_label_writeprivacysettings">Modify PDroid settings</string>
+	<string name="permission_description_writeprivacysettings">Allows modification of PDroid settings associated with applications.</string>
+</resources>
